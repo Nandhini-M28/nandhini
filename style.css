@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background:linear-gradient(0deg,
-    rgb(64, 192, 0) 0%, rgb(64, 192, 0));
+    rgb(0, 154, 192) 0%, rgb(0, 134, 192));
     color: white;
 }
 
@@ -42,7 +42,7 @@ header {
 main {
     background:
         linear-gradient(0deg,
-            rgb(125, 238, 26) 0%, rgb(125, 238, 26));
+            rgb(26, 185, 238) 0%, rgb(26, 234, 238));
     margin: 28px 60px;
     background-color: rgb(237, 190, 190);
     color: #056adc;
