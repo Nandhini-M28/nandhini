@@ -41,7 +41,7 @@ header {
 main {
     margin: 28px 60px;
     background: none; /* Removed background gradient */
-    color: #056adc;
+    color: #056adc; /* Removed background gradient */
     padding: 20px;
     border-radius: 5px;
     height: 61vh;
